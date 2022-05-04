@@ -1,7 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/murcyjuncc/myH5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+##莫西琼的主页
+您可以使用[GitHub上的编辑器]（https://github.com/murcyjuncc/myH5/edit/gh-pages/index.md）在Markdown文件中维护和您网站的预览内容。 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
